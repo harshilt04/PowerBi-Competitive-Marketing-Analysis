@@ -1,1 +1,3 @@
 # PowerBi-Competitive-Marketing-Analysis
+
+Report Link : https://app.powerbi.com/view?r=eyJrIjoiMDg1OTk1M2UtMDE4ZC00ZWY5LTlhMmMtMmIwZTNiNWM3NDMwIiwidCI6ImM0MTlhMWI2LTEyMmEtNGM5MS1hYTE1LWI5NTc3ODRiZDNkNCIsImMiOjN9
